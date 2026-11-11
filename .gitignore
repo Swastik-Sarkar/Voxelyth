@@ -1,0 +1,13 @@
+# Rust build artifacts
+/client/target/
+
+# Minecraft runtime
+/client/game/**
+!/client/game/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
